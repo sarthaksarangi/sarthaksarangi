@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a recipe app made using React Js.<br>👯 I’m looking to collaborate on Open Source Web Development Projects.<br>🌱 I’m learning React Js and planning to learn Next.js by next month.<br>
+🔭 I’m currently learning to build full-stack web apps using React Js.<br>👯 I’m looking to collaborate on Open Source Web Development Projects.<br>🌱 I’m learning React Js and planning to learn Next.js by next month.<br>
 
 
 ## 🌐 Socials:
