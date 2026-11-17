@@ -1,20 +1,75 @@
-# 💫 About Me:
-🔭 Full Stack Developer<br>
+<p align="center">
+  <a href="https://sarthaksarangi.com">
+    <img src="./assets/banner.png" alt="Sarthak Sarangi, Full-Stack AI Engineer" width="100%">
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthakxsarangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksarangi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sarthaksarangi_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthaksarangi.dev@gmail.com) 
+<p align="center">
+  <a href="https://sarthaksarangi.com"><img src="https://img.shields.io/badge/Website-sarthaksarangi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/sarthaksarangi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/sarthaksarangi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://leetcode.com/u/sarthaksarangi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:sarthaksarangi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 👋 About me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarthaksarangi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarthaksarangi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksarangi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🛠️ Software Engineer at **Exotel**, building LLM-powered automation with FastAPI and Pydantic
+- 🔍 I build **RAG systems, LLM agents and the products around them**, from the Python backend to the Next.js frontend
+- ✍️ Writing **[AI Engineering, Explained](https://sarthaksarangi.com/blog/ai-engineering-explained)**, a 23-part series on building with LLMs
+- 💬 Ask me about RAG, agents, FastAPI or Next.js
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Featured writing
+
+<a href="https://sarthaksarangi.com/blog/ai-engineering-explained">
+  <img src="https://sarthaksarangi.com/blog/ai-engineering-explained/opengraph-image" alt="AI Engineering, Explained: a 23-part series" width="600">
+</a>
+
+How LLMs work, prompting and tool calling, RAG, agents and MCP, evals, security, cost and system design, each explained from first principles with code and interview questions.
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sarthaksarangi/docsage">DocSage</a></h3>
+      <a href="https://github.com/sarthaksarangi/docsage"><img src="https://sarthaksarangi.com/docsage-thumbnail.png" alt="DocSage"></a><br><br>
+      RAG assistant for technical PDFs: chunking, embeddings, semantic search with metadata filters, and answers with source citations.<br><br>
+      <code>Python</code> <code>LangChain</code> <code>Gemini</code> <code>pgvector</code> <code>Streamlit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sarthaksarangi/tickr-flow">TickrFlow</a> · <a href="https://tickrflow.sarthaksarangi.com/">live</a></h3>
+      <a href="https://tickrflow.sarthaksarangi.com/"><img src="https://sarthaksarangi.com/tickrflow.png" alt="TickrFlow"></a><br><br>
+      Stock market app with a daily LLM pipeline that emails personalized market summaries.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Gemini</code> <code>Inngest</code>
+    </td>
+  </tr>
+</table>
+
+**Also:** [**Pay-X**](https://github.com/sarthaksarangi/pay-x) ([live](https://user-payx.sarthaksarangi.com/)), a payments platform in a Turborepo monorepo (Next.js, Express, Prisma, PostgreSQL) · [**Blogify**](https://github.com/sarthaksarangi/medium-blog-fe) ([live](https://blogify.sarthaksarangi.com)), a blogging platform on Cloudflare Workers (React, TypeScript, Hono)
+
+## 🛠️ Tech stack
+
+**AI and backend** (plus LangChain, LangGraph, MCP, RAG, embeddings, prompt engineering and tool calling)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,java,spring,mongodb&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Java, Spring, MongoDB">
+</p>
+
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,prisma&theme=dark" alt="TypeScript, Next.js, React, Tailwind CSS, Node.js, Express, Prisma">
+</p>
+
+**Deploy and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,aws,azure,docker,githubactions,git&theme=dark" alt="Vercel, Cloudflare, AWS, Azure, Docker, GitHub Actions, Git">
+</p>
 
 ---
-![](https://komarev.com/ghpvc/?username=sarthaksarangi)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthaksarangi&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views">
+</p>
